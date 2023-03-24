@@ -1,1 +1,1 @@
-# xpo-bi-res
+Repository hosting resources for XPO BI reports.
