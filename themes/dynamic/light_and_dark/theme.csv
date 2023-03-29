@@ -9,7 +9,7 @@ Secondary Text,#404040,#d9d9d9
 Hint Text,#737373,#8c8c8c
 Button,#d9d9d9,#333333
 Button Hover,#cccccc,#404040
-Button Press,#595959,#bfbfbf
+Button Press,#404040,#d9d9d9
 Button Selected,#666666,#b3b3b3
 Button Text,#404040,#d9d9d9
 Button Text Hover,#404040,#d9d9d9
