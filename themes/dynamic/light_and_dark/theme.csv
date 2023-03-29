@@ -1,0 +1,17 @@
+﻿ID,1,2
+Name,Light,Dark
+Icon,https://raw.githubusercontent.com/filcuk/xpo-bi-res/5221216fcb264bfba253997b5dd10359d94c5448/themes/dynamic/light_and_dark/res/sun.svg,https://raw.githubusercontent.com/filcuk/xpo-bi-res/5221216fcb264bfba253997b5dd10359d94c5448/themes/dynamic/light_and_dark/res/moon.svg
+Background,#ffffff,#121212
+Visual,#eeeeee,#1d1d1d
+Divider,#cccccc,#282828
+Primary Text,#000000,#ffffff
+Secondary Text,#404040,#d9d9d9
+Hint Text,#737373,#8c8c8c
+Button,#d9d9d9,#333333
+Button Hover,#cccccc,#404040
+Button Press,#595959,#bfbfbf
+Button Selected,#666666,#b3b3b3
+Button Text,#404040,#d9d9d9
+Button Text Hover,#404040,#d9d9d9
+Button Text Press,#000000,#ffffff
+Button Text Selected,#d9d9d9,#404040
