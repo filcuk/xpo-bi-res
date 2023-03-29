@@ -1,6 +1,6 @@
 ﻿ID,1,2
 Name,Light,Dark
-Icon,https://raw.githubusercontent.com/filcuk/xpo-bi-res/5221216fcb264bfba253997b5dd10359d94c5448/themes/dynamic/light_and_dark/res/sun.svg,https://raw.githubusercontent.com/filcuk/xpo-bi-res/5221216fcb264bfba253997b5dd10359d94c5448/themes/dynamic/light_and_dark/res/moon.svg
+Icon,https://raw.githubusercontent.com/filcuk/xpo-bi-res/main/themes/dynamic/light_and_dark/res/sun.svg,https://raw.githubusercontent.com/filcuk/xpo-bi-res/main/themes/dynamic/light_and_dark/res/moon.svg
 Background,#ffffff,#121212
 Visual,#eeeeee,#1d1d1d
 Divider,#cccccc,#282828
