@@ -13,5 +13,5 @@ Button Press,#595959,#bfbfbf
 Button Selected,#666666,#b3b3b3
 Button Text,#404040,#d9d9d9
 Button Text Hover,#404040,#d9d9d9
-Button Text Press,#000000,#ffffff
-Button Text Selected,#d9d9d9,#404040
+Button Text Press,#ffffff,#000000
+Button Text Selected,#ffffff,#000000
