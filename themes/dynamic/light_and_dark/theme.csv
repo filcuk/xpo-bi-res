@@ -2,7 +2,7 @@
 Name,Light,Dark
 Icon,https://raw.githubusercontent.com/filcuk/xpo-bi-res/main/themes/dynamic/light_and_dark/res/sun.svg,https://raw.githubusercontent.com/filcuk/xpo-bi-res/main/themes/dynamic/light_and_dark/res/moon.svg
 Background,#ffffff,#121212
-Section,#f9f9f9,#181818
+Section,#fcfcfc,#151515
 Divider,#cccccc,#282828
 Visual,#eeeeee,#1d1d1d
 Primary Text,#000000,#ffffff
